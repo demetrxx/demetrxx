@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Software Engineer at BN Digital [bn digital](httpe://bndigital.co). We are a design-driven studio passionate about solving problems. We help startups and smart companies to provide top-notch experiences in the digital world. 
+I am a Software Engineer at BN Digital [bn digital](http://bndigital.co). We are a design-driven studio passionate about solving problems. We help startups and smart companies to provide top-notch experiences in the digital world. 
 
 ### My specialty
 
