@@ -9,7 +9,3 @@ I'm a passionate full-stack developer, specializing in TypeScript and Node.js. M
 - **Tools:** [List other tools here]
 - **Languages:** English
 
-## Let's Connect!
-Feel free to reach out for collaborations, discussions, or just to connect! 😊
-[LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/dmytro-bielousov/)https://www.linkedin.com/in/dmytro-bielousov/)
-
